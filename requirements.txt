@@ -1,0 +1,15 @@
+torch==2.1.0
+transformers==4.35.0
+datasets==2.14.0
+accelerate==0.23.0
+pandas
+numpy
+matplotlib
+seaborn
+streamlit
+plotly
+scikit-learn
+jupyter
+black
+isort
+flake8 
